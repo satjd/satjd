@@ -1,24 +1,29 @@
 ![](https://img.shields.io/static/v1?label=Turing%20test&message=passed&color=success&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=uptime&message=28%20years&color=blueviolet&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=uptime&message=29%20years&color=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=poweredby&message=oxygen&color=blue&style=for-the-badge)
-### It's nice to meet you. 👋
-Hi, I'm 宋傲(Song Ao) - a software development engineer working in Alibaba Cloud since 2021. I’m currently working on cloud native observability and monitoring. 
+# Hey there 👋
 
-## How to reach me 💬
-- Email: [noah.songao@qq.com](mailto:noah.songao@qq.com) or [noah.songao@gmail.com](mailto:noah.songao@gmail.com)
-- Issues are welcome [here](https://github.com/satjd/satjd/issues)
+I'm a software engineer who loves building reliable, observable, cloud‑native systems.
 
-<!--
-**satjd/satjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Observability: OpenTelemetry, metrics/logs/traces, SLOs, alerting that actually helps
+- ⏱️ Time‑series: storage, indexing, cardinality control, query performance
+- ☁️ Cloud‑native: Kubernetes, resilient architectures
 
-Here are some ideas to get you started:
+## What I'm currently exploring
+- End‑to‑end trace/metric/log correlation
+- TSDB benchmarking and capacity planning
+- Cost‑aware observability pipelines and retention strategies
+- 🤖 LLM + RAG for ops: on‑call copilots powered by runbooks, dashboards, and incidents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I enjoy
+Kubernetes • OpenTelemetry • Prometheus • Grafana • Kafka • VictoriaMetrics/InfluxDB • Helm 
+
+## How I work
+- 🚦 SLO‑first thinking
+- 🧪 Data‑driven experiments and benchmarking
+- 🔧 Infrastructure as code, reproducible environments
+- ✂️ Keep it simple, automate the boring stuff
+
+## Let’s connect
+- Open to collaboration on observability, TSDBs, and cloud‑native tooling
+- Reach me via issues/PRs or: [my-email](mailto:songao60@foxmail.com)
